@@ -1,0 +1,7 @@
+venv/*
+myvenv/*
+.idea/*
+postgresconn/__pycache__/
+.vscode/
+postgresapp/__pycache__/
+postgresapp/migrations/
